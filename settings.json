@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CreeperfromFrance.aternos.me:55417",
+    "ip": "CreeperfromFrance.aternos.me",
     "port": 55417,
     "version": "",
     "try-creative": false
